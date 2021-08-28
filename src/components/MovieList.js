@@ -9,7 +9,10 @@ const MovieList = (props) => {
 	}
 	return (
 		<>
-			{props.movies.map((movie, index) => (
+		
+			{
+				(props.movies != null) ?
+			props.movies.map((movie, index) => (
 				<div classname="movie-card">
 						<Card className="movie">
 						<Card.Img className="card-img" onClick={() => openTab(movie.imdbID)} variant="top" src={movie.Poster} alt='movie' />
@@ -27,7 +30,12 @@ const MovieList = (props) => {
 						</div>
 						</Card>
 				</div>
-			))}
+			))
+			:
+			<p>no movie list</p>
+			}
+
+		
 		</>
 	);
 };
