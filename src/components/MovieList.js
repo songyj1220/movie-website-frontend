@@ -23,16 +23,16 @@ const MovieList = (props) => {
 							imdbID: {movie.imdbID}
 							</Card.Text>
 						</Card.Body>
-						<div 
+						{/* <div 
 						onClick={() => props.handleFavouritesClick(movie)}
 						className='overlay d-flex align-items-center justify-content-center'>
 						<FavouriteComponent />
-						</div>
+						</div> */}
 						</Card>
 				</div>
 			))
 			:
-			<p>no movie list</p>
+			<p></p>
 			}
 
 		

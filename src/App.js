@@ -64,14 +64,14 @@ const App = () => {
 				<SearchBox searchValue={searchValue} setSearchValue={setSearchValue} />
 			</div>
             
-            <h4 className="heading">Favourites</h4>
+            {/* <h4 className="heading">Favourites</h4>
 			<div className='favourites-list'>
             <MovieList
 					movies={favourites}
 					handleFavouritesClick={removeFavouriteMovie}
 					favouriteComponent={RemoveFavourites}
 				/>
-			</div>
+			</div> */}
 
             <h4 className="heading">Search Result</h4>
 			<div className='movieList'>
