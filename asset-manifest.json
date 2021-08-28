@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/movie-website-frontend/static/css/main.898bdb5c.chunk.css",
+    "main.js": "/movie-website-frontend/static/js/main.a7cc92ee.chunk.js",
+    "main.js.map": "/movie-website-frontend/static/js/main.a7cc92ee.chunk.js.map",
+    "runtime-main.js": "/movie-website-frontend/static/js/runtime-main.31bf6f3e.js",
+    "runtime-main.js.map": "/movie-website-frontend/static/js/runtime-main.31bf6f3e.js.map",
+    "static/css/2.818011ed.chunk.css": "/movie-website-frontend/static/css/2.818011ed.chunk.css",
+    "static/js/2.cd3e0798.chunk.js": "/movie-website-frontend/static/js/2.cd3e0798.chunk.js",
+    "static/js/2.cd3e0798.chunk.js.map": "/movie-website-frontend/static/js/2.cd3e0798.chunk.js.map",
+    "static/js/3.474698ec.chunk.js": "/movie-website-frontend/static/js/3.474698ec.chunk.js",
+    "static/js/3.474698ec.chunk.js.map": "/movie-website-frontend/static/js/3.474698ec.chunk.js.map",
+    "index.html": "/movie-website-frontend/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/movie-website-frontend/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.898bdb5c.chunk.css.map": "/movie-website-frontend/static/css/main.898bdb5c.chunk.css.map",
+    "static/js/2.cd3e0798.chunk.js.LICENSE.txt": "/movie-website-frontend/static/js/2.cd3e0798.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31bf6f3e.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.cd3e0798.chunk.js",
+    "static/css/main.898bdb5c.chunk.css",
+    "static/js/main.a7cc92ee.chunk.js"
+  ]
+}
