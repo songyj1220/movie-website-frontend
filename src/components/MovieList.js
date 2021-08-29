@@ -20,7 +20,8 @@ const MovieList = (props) => {
 							<Card.Title>{movie.Title}</Card.Title>
 							<Card.Text>
 							<p style={{marginBottom: "0px"}}>Year: {movie.Year}</p>
-							imdbID: {movie.imdbID}
+							<p style={{marginBottom: "0px"}}>imdbID: {movie.imdbID}</p>
+							<p style={{marginBottom: "0px"}}>Type: {movie.Type}</p>
 							</Card.Text>
 						</Card.Body>
 						{/* <div 
